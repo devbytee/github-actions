@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Automated deployment with Github Actions !
+          Learn Automated deployment with Github Actions and Nginx!
         </a>
       </header>
     </div>
